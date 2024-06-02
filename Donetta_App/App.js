@@ -107,11 +107,11 @@ export default function Task() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "rgba(247,240,232,1)",
+    backgroundColor: "rgba(255, 192, 203, 1)",
   },
   Task: {
     flex: 1,
-    backgroundColor: "rgba(247,240,232,1)",
+    backgroundColor: "rgba(255, 192, 203, 1)",
   },
   Frame1: {
     flexDirection: "row",
